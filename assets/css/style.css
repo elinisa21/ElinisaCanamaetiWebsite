@@ -1,0 +1,101 @@
+
+body {
+    background-color: #dddddd;
+}
+
+
+
+#bio-image{
+
+    width: 200px;
+    height: auto;
+    margin-right: 25px;
+    margin-left: 15px;
+}
+
+
+ a:hover {
+
+    background-color: tan;
+   }
+
+   #logo {
+
+    width: 250px;
+    height: 80px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 70px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    
+
+}
+
+#button{
+
+    font-family: Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    background: #4aaaa5;
+    color: white;
+
+}
+
+  
+
+#about-me, #portfolio, #contact {
+
+    margin-top: 40px;
+    padding-bottom: 30px;
+
+}
+
+#portfolio {
+    margin-bottom: 80px;
+}
+
+#row1, #row2 {
+
+    margin-bottom: 1%;
+
+}
+
+
+
+img {
+
+    margin-bottom: 2%;
+
+}
+
+h1{
+    border-bottom: 1px solid #cacaca;
+    margin-top: 1%;
+    padding-bottom: 2%;
+}
+
+.container {
+    background: #ffffff;
+    color: #a7a4a4;
+}
+
+#index {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+footer {
+
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%; 
+    line-height: 60px;
+    background-color : #777777;
+    border-top: 8px solid teal;
+    color: #a7a4a4;
+    
+ }  
